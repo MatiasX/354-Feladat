@@ -1,4 +1,3 @@
-
 /*
 * File: MainConsole.java
 * Author: Fehér Mátyás
