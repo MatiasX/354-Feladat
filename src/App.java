@@ -10,6 +10,7 @@
 public class App {
     public static void main(String[] args) {
         MainConsole console = new MainConsole();
+        MainConsole.author();
         console.run();
     }
 }

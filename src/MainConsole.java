@@ -1,3 +1,4 @@
+
 /*
 * File: MainConsole.java
 * Author: Fehér Mátyás
@@ -10,7 +11,7 @@
 import java.util.Scanner;
 
 public class MainConsole {
-    public static void Author(String[] args) {
+    public static void author() {
         System.out.printf("Készítette: Fehér Mátyás\n Dátum: 2023.02.20\n Csoport: Szoft I 1 N\n");
     }
 
